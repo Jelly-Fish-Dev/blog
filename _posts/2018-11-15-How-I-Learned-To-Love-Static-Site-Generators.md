@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making a Blog or How I learned to stop worrying and love static site generators
+author: Isaac Hawkins
 categories: [web]
 ---
 
